@@ -1,7 +1,7 @@
 ### Rest API based project by Virgiawan //
 -----
 
-How to use?
+### How to use?
 1. Clone this project first
 2. Run `npm install` on your terminal to install all dependencies & libraries
 3. Copy and paste `main.example.js` in `config` folder, and rename that file to `main.js`
@@ -14,7 +14,7 @@ How to use?
 
 ### You can see the result on [developer.dwirangga.my.id](https://www.developer.dwirangga.my.id) at Contact section
 
-Technologies & Libraries that used by this project:
+## Technologies & Libraries that used by this project:
 - `Express JS` (framework of `Node JS`) [documentation](https://expressjs.com/)
 - `MySQL` [documentation](https://www.npmjs.com/package/mysql2)
 - `Sequelize` [documentation](https://sequelize.org/)
