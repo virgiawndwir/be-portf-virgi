@@ -1,18 +1,18 @@
-### Rest API based project by Virgiawan //
+## Rest API based project by Virgiawan //
 -----
 
 ### How to use?
-1. Clone this project first
-2. Run `npm install` on your terminal to install all dependencies & libraries
-3. Copy and paste `main.example.js` in `config` folder, and rename that file to `main.js`
-4. Set up database configuration in `config/main.js` file
-5. Copy and paste `nodemailerConfig.example.js` in `config` folder, and rename that file to `nodemailerConfig.js`
-6. Set up email configuration in `config/nodemailerConfig.js` file
-7. Don't forget to create your database first on your local device
-8. Run `nodemon server.js` on your terminal
+1. Clone this project first,
+2. Run `npm install` on your terminal to install all dependencies & libraries,
+3. Copy and paste `main.example.js` in `config` folder, and rename that file to `main.js`,
+4. Set up database configuration in `config/main.js` file,
+5. Copy and paste `nodemailerConfig.example.js` in `config` folder, and rename that file to `nodemailerConfig.js`,
+6. Set up email configuration in `config/nodemailerConfig.js` file,
+7. Don't forget to create your database first on your local device,
+8. Run `nodemon server.js` on your terminal,
 9. Project can be used and yours! :)
 
-## You can see the result on [developer.dwirangga.my.id](https://www.developer.dwirangga.my.id) at Contact section
+### You can see the result on [developer.dwirangga.my.id](https://www.developer.dwirangga.my.id) at Contact section
 
 ## Technologies & Libraries that used by this project:
 - `Express JS` (framework of `Node JS`) [documentation](https://expressjs.com/)
