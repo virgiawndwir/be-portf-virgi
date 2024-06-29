@@ -1,4 +1,4 @@
-## Rest API based project by Virgiawan //
+## Express JS Rest API based project by Virgiawan //
 -----
 
 ### How to use?
