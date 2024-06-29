@@ -21,7 +21,7 @@
 - `Nodemon` [documentation](https://www.npmjs.com/package/nodemon)
 
 ### Get to know Virgi better by touch //
-- Business (Whatsapp): [Touche me](https://wa.me/6285283868663?text=Hi%2C%20Virgi.%20I%20have%20an%20idea%20to%20build%20a%20business!)
+- Business (Whatsapp): [Hi Virgi!](https://wa.me/6285283868663?text=Hi%2C%20Virgi.%20I%20have%20an%20idea%20to%20build%20a%20business!)
 - Instagram: [@virgi.dr](https://www.instagram.com/virgi.dr/)
 - Email: [virgiawndwir@gmail.com](mailto:virgiawndwir@gmail.com)
 - Website: [dwirangga.my.id](https://www.dwirangga.my.id)
