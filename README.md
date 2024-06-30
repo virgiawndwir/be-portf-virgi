@@ -1,4 +1,5 @@
 ## Express JS Rest API based project by Virgiawan //
+This project is functionally for recording and monitoring people who contact you. 
 
 ### How to use?
 1. Clone this project first,
@@ -8,8 +9,9 @@
 5. Copy and paste `nodemailerConfig.example.js` in `config` folder, and rename that file to `nodemailerConfig.js`,
 6. Set up email configuration in `config/nodemailerConfig.js` file,
 7. Don't forget to create your database first on your local device,
-8. Run `nodemon server.js` on your terminal,
-9. Project can be used and yours! :)
+8. Create table on your database and name it `guests`, and you can see `/models/Guest.js` file to match the fields that you will add to your table on your database,
+9. Run `nodemon server.js` on your terminal,
+10. The project can be used and yours! :)
 
 ## Technologies & Libraries that used by this project:
 - `Express JS` (framework of `Node JS`) [documentation](https://expressjs.com/)
