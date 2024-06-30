@@ -1,5 +1,5 @@
 ## Express JS Rest API based project by Virgiawan //
-This project is functionally for recording and monitoring people who contact you (by email). 
+This project is functionally for recording and monitoring people who contact you (by email).__
 Currently using Gmail.
 
 ### How to use?
