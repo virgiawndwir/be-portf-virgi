@@ -11,8 +11,6 @@
 8. Run `nodemon server.js` on your terminal,
 9. Project can be used and yours! :)
 
-### You can see the result on [developer.dwirangga.my.id](https://www.developer.dwirangga.my.id) at Contact section
-
 ## Technologies & Libraries that used by this project:
 - `Express JS` (framework of `Node JS`) [documentation](https://expressjs.com/)
 - `MySQL` [documentation](https://www.npmjs.com/package/mysql2)
